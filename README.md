@@ -1,4 +1,3 @@
-
 # 🛒 E-commerce Trend Analysis - SQL
 
 ## 📌 Aim
